@@ -1,2 +1,2 @@
 # test-f19
-Test sit for fall 2019
+Test site for fall 2019
